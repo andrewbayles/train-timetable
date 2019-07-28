@@ -2,19 +2,19 @@ body {
     font-family: 'Signika Negative', sans-serif;
     font-size: 20px;
     color: #000000;
-    background-color: #6f2232;
+    background-color: #94C0FF;
     
 }
 
 .jumbotron {
-    background-color: #000000;
+    background-color: #ffffff;
     height: 250px;
 }
 
 .display-4 {
-    font-family: 'Luckiest Guy', cursive;
+    /* font-family: 'Luckiest Guy', cursive; */
     font-size: 5rem;
-    color: #950740;
+    color: #000000;
     text-align: center;
 }
 
